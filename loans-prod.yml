@@ -4,7 +4,7 @@ build:
 loans:
   message: "Hey, welcome to WellsBank loans related production APIs "
   contactDetails:
-    name: "Pelias Sudhir - Product Owner"
+    name: "Sikdar Sudhir - Product Owner"
     email: "pelias@eazybank.com"
   onCallSupport:
     - (723) 656-8709
